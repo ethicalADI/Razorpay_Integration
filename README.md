@@ -1,4 +1,4 @@
-# Payment Integration with React and Node.js
+# Razorpay Payment Integration 
 
 This project is a simple demonstration of integrating Razorpay payment gateway into a web application built with React on the frontend and Node.js on the backend. This README file will guide you through setting up and running the project.
 
